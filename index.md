@@ -9,7 +9,7 @@ The crew finally arrives at the cave, where they can rest for the night. They ar
 
 With a night to cool off, Lucky attempts to reintroduce herself to Mark Potter and invites him to a drinking game. During the carousing, Mark reveals that the last person he remembers talking to is Rictavio, your vampire-hunting friend.
 
-Gasping in the miserable heat of the desert, the crew encounters a friendly native named Yemi. Yemi is astride a Kafervagon, a gigantic tick-like creature covered in awesome painted red flames. A thick, rough rope straps various boxes, jars, and platforms along its shell. They manage to bargain a ride to the Holy City of Acheron with their fresh camel milk.
+Gasping in the miserable heat of the desert, the crew encounters a friendly native named Yemi. He assumes you're also going on a pilgrimage to see the Messiah and says he's heading towards the Holy City. He sits astride a Kafervagon, a gigantic tick-like creature covered in awesome painted red flames. A thick, rough rope straps various boxes, jars, and platforms along its shell. They bargain a ride to the Holy City of Acheron with their fresh camel milk.
 #### Plunder
 - A rusty metal pipe
 - A torn canvas sail 
