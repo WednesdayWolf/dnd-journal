@@ -1,5 +1,27 @@
 # Session Journal
 
+## 2025-03-16
+On finding themselves stranded in the desert, the party immediately started arguing with themselves. An injured survivor of the crash begged for their help, but he was promptly beaten to death and chopped up for meat. They found a few items in the broken remains of the sail-barge and set out towards a cave Krete spotted earlier. Reniél decided that now was the time to apply her academic knowledge of desert fauna and transform herself into a camel, with impressive results. Hot, thirsty and miserable, they set out into the desert wastes.
+
+Meanwhile, Lucky spent a lovely night in the comfort of the Bronze Vessel, and while eating a hearty breakfast, she noticed a blinking magical sigil on a wall panel. Following it to the engine deck, she finds a man strapped to a chair, covered in a thin mucus, hooked up to the engine with a massive pile of serpentine cables. A strange contraption bolts his mouth shut. Upon releasing him, he feebly tries and fails to escape and then introduces himself as Mark Potter. He had been kidnapped and forced into this contraption by the previous crew. Mark helps Lucky locate her missing helmsman and finds that he's been hung by a hook outside the walls of Londinum, along with Gimbletink.
+
+The crew finally arrives at the cave, where they can rest for the night. They are thirsty, miserable, and overheated, but they are glad to get some rest. In the morning, Moses, Lucky and Krete explore the cave of oily black stone. Following a path cleaved into the deep rock, they find a series of mysterious murals and a large ziggurat squatting in a gaping cavern. Leaving whatever that was, they prepare for the misery of the desert by milking Reniél and slaughtering Elania.
+
+With a night to cool off, Lucky attempts to reintroduce herself to Mark Potter and invites him to a drinking game. During the carousing, Mark reveals that the last person he remembers talking to is Rictavio, your vampire-hunting friend.
+
+Gasping in the miserable heat of the desert, the crew encounters a friendly native named Yemi. Yemi is astride a Kafervagon, a gigantic tick-like creature covered in awesome painted red flames. A thick, rough rope straps various boxes, jars, and platforms along its shell. They manage to bargain a ride to the Holy City of Acheron with their fresh camel milk.
+#### Plunder
+- A rusty metal pipe
+- A torn canvas sail 
+- Fresh camel milk
+- 100 pounds of human meat
+## 2025-02-09
+### Spice World
+While making dinner, Blackbeard noticed that the barrel of pickled pork had a false bottom and contained several dozen bricks of a mysterious golden substance. The first mate, Elaina Sartell panics and realises that her contact used her to smuggle spice to Ert unwittingly. After a brief argument where Elaina threw a packet of the spice everywhere, Elania convinced everyone to go to Spice World, also known as Sailor's Doom, to deliver the goods back to the Spice Cartel.
+
+Upon landing on Spice World, the crew met with the head of House Saxe-Gotha, Thane Edmund. Thanking everyone for the return of his property, he offered the reward of not immediately killing everyone. Thane Edmund stripped the crew of all their worldly possessions and sent them into the Deep Desert on a sail-barge, which promptly crashed and stranded everyone.
+
+Meanwhile, Captain Lucky watched the proceedings from the shadows and promptly tried to sneak back aboard the Bronze Vessel. She nimbly avoided the best efforts of the Saxe-Gotha Royal Guards and found her ship landlocked by enchanted chains. She stowed away back on her boat for a nap.
 ## 2025-01-04
 ### Astral Rain
 The party activated a mysterious bronze contraption in the Wizard of Wines barn, using a purple gemstone the retrieved from Yester Hill. Kretē somehow got the mysterious device to fly out into space.
