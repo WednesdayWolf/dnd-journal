@@ -15,6 +15,7 @@ Gasping in the miserable heat of the desert, the crew encounters a friendly nati
 - A torn canvas sail 
 - Fresh camel milk
 - 100 pounds of human meat
+
 ## 2025-02-09
 ### Spice World
 While making dinner, Blackbeard noticed that the barrel of pickled pork had a false bottom and contained several dozen bricks of a mysterious golden substance. The first mate, Elaina Sartell panics and realises that her contact used her to smuggle spice to Ert unwittingly. After a brief argument where Elaina threw a packet of the spice everywhere, Elania convinced everyone to go to Spice World, also known as Sailor's Doom, to deliver the goods back to the Spice Cartel.
